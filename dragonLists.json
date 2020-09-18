@@ -1,0 +1,38 @@
+{
+    "sentDragons" : [
+        {
+            "image_name" : "dragon1.png",
+            "image_number" : 0,
+            "image_id" : "1298721908658932170587312075",
+            "tweetObj" : {"id": "asdadsafjkashkjfh", "content" : "askjhdaksjdhasfagewfc"},
+            "status" : "sent"
+        }
+    ],
+    "verifiedDragons" : [
+        {
+            "image_name" : "dragon1.png",
+            "id" : 0,
+            "url" : "https://www.imageurl.com/imagepath/assets/image77.jpeg",
+            "imagePath" : "/home/bluedev/bots/unsolicitedDragons/imageAssets/dragon0.jpeg",
+            "downloaded" : true
+        }
+    ],
+    "unverifiedDragons" : [
+        {
+            "image_name" : "dragon1.png",
+            "id" : 0,
+            "url" : "https://www.imageurl.com/imagepath/assets/image77.jpeg",
+            "imagePath" : "/home/bluedev/bots/unsolicitedDragons/imageAssets/dragon0.jpeg",
+            "downloaded" : true
+        }
+    ],
+    "deniedDragons" : [
+        {
+            "image_name" : "dragon1.png",
+            "id" : 0,
+            "url" : "https://www.imageurl.com/imagepath/assets/image77.jpeg",
+            "imagePath" : "/home/bluedev/bots/unsolicitedDragons/imageAssets/dragon0.jpeg",
+            "downloaded" : true
+        }
+    ]
+}
