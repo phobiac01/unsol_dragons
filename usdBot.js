@@ -5,10 +5,11 @@ const download = require('image-downloader')
 var allDragons = require('./dragonLists.json');
 
 var client = new Twitter({
-  consumer_key: 'ldMxGNyBfbfJOwf2Hr6dtvRph',
-  consumer_secret: 'HIWoCB6oSWx0iZXhSpTeU5n6yylydNS8NMMt6nKKcQx0X2jein',
-  access_token_key: '1255360103672356864-az6TwfeHjjMar2WPyIKCKflFroYqF1',
-  access_token_secret: 'SFGd89KQ9Ft08gVhVgoiDWag6OOrOzIPkVJMl7GpprhA3'
+  update: "All API keys and access token have been regerated for this project to allow it to go public. The below keys and secrets used for this bot WILL NO LONGER WORK"
+//   consumer_key: 'ldMxGNyBfbfJOwf2Hr6dtvRph',
+//   consumer_secret: 'HIWoCB6oSWx0iZXhSpTeU5n6yylydNS8NMMt6nKKcQx0X2jein',
+//   access_token_key: '1255360103672356864-az6TwfeHjjMar2WPyIKCKflFroYqF1',
+//   access_token_secret: 'SFGd89KQ9Ft08gVhVgoiDWag6OOrOzIPkVJMl7GpprhA3'
 });
 
 
